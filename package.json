@@ -1,0 +1,14 @@
+{
+  "name": "expressexample",
+  "version": "1.0.0",
+  "description": "An example express application that can be deployed to plithos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Plithos Tech",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
